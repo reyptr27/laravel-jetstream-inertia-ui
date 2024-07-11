@@ -2,7 +2,7 @@
 
 Custom UI for [laravel jetstream](https://github.com/laravel/jetstream) (inertia stack).
 
-> We recommend installing this package on a project that you are starting from scratch.
+> I recommend installing this package on a project that you are starting from scratch.
 
 #### Usage
 > NOTE: It doesn't matter if you use `vitejs` or `laravel-mix`, it will work in both cases.
@@ -43,7 +43,7 @@ npm install && npm run dev # or yarn && yarn dev
 
 You will found sidebar links in:
 
-- inertia: `resources/js/Components/Sidebar/SidebarContent.vue`
+`resources/js/Components/Sidebar/SidebarContent.vue`
 
 #### Screens
 
