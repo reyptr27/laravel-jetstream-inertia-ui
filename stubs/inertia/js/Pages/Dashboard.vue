@@ -1,7 +1,7 @@
 <script setup>
 import AppLayout from '@/Layouts/AppLayout.vue';
 import Button from "@/Components/Button.vue";
-import { GithubIcon } from "@/Components/Icons/Brands";
+import { GithubIcon } from "@/Components/Icons/Brand";
 </script>
 
 <template>

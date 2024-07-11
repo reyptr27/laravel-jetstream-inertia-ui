@@ -140,7 +140,7 @@ const logout = () => {
                 @click="toggleFullScreen"
                 v-slot="{ iconSizeClasses }"
                 class="hidden md:inline-flex"
-                srText="Toggle dark mode"
+                srText="Toggle full screen"
             >
                 <ArrowsPointingOutIcon
                     v-show="!isFullscreen"

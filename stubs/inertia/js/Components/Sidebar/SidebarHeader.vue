@@ -12,7 +12,7 @@ import { XMarkIcon } from '@heroicons/vue/24/outline';
         <Link :href="route('dashboard')" class="inline-flex items-center gap-2">
             <ApplicationLogo aria-hidden="true" class="w-10 h-auto" />
             <span v-show="sidebarState.isOpen || sidebarState.isHovered" class="text-3xl text-gray-700 text-transform: uppercase; font-bold tracking-tight leading-none whitespace-nowrap dark:text-white">
-                REYPTR27 UI <small class="text-sm text-gray-700 text-transform: uppercase; font-thin tracking-tight leading-none whitespace-nowrap dark:text-white"> v2.0</small>
+                REY-UI <small class="text-sm text-gray-700 text-transform: uppercase; font-thin tracking-tight leading-none whitespace-nowrap dark:text-white"> v1.0</small>
             </span>
         </Link>
 

@@ -14,7 +14,7 @@ defineProps(['policy']);
                 <Link :href="'/'" class="inline-flex items-center gap-2">
                     <ApplicationLogo aria-hidden="true" class="w-16 h-16" />
                     <span aria-hidden="true" class="text-5xl text-gray-700 text-transform: uppercase; font-bold tracking-tight leading-none whitespace-nowrap dark:text-white">
-                        REYPTR27 UI<small class="text-lg text-gray-700 text-transform: uppercase; font-thin tracking-tight leading-none whitespace-nowrap dark:text-white"> v2.0</small>
+                        REY-UI<small class="text-lg text-gray-700 text-transform: uppercase; font-thin tracking-tight leading-none whitespace-nowrap dark:text-white"> v1.0</small>
                     </span>
                 </Link>
 
