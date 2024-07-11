@@ -47,7 +47,7 @@ You will found sidebar links in:
 
 #### Screens
 
-|                                           |                                          |
-| ----------------------------------------- | ---------------------------------------- |
-| ![Shocase 1](screenshots/login.png)       | ![Shocase 2](screenshots/register.png)   |
-| ![Shocase 3](screenshots/dashboard.png)   |                                          |
+|                                                |                                               |
+| ---------------------------------------------- | --------------------------------------------- |
+| ![Shocase 1](screenshots/login-page.png)       | ![Shocase 2](screenshots/register-page.png)   |
+| ![Shocase 3](screenshots/dashboard-page.png)   |                                               |
