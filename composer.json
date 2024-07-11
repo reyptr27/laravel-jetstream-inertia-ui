@@ -1,0 +1,39 @@
+{
+  "name": "reyptr27/laravel-jetstream-inertia-ui",
+  "description": "Custom UI for laravel jetstream (inertia stack)",
+  "keywords": [
+    "laravel",
+    "jetstream",
+    "tailwindcss",
+    "alpinejs",
+    "inertiajs",
+    "ui",
+    "dashboard"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/reyptr27/laravel-jetstream-inertia-ui",
+  "authors": [
+    {
+      "name": "Reyptr27",
+      "email": "reynaldo.ptr27@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^8.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "ReyPtr27\\Jetstream\\": "src/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "ReyPtr27\\Jetstream\\InertiaUiServiceProvider"
+      ]
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}

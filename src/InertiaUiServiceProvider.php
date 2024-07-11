@@ -1,0 +1,24 @@
+<?php
+
+namespace ReyPtr27\Jetstream;
+
+use Illuminate\Support\ServiceProvider;
+
+class InertiaUiServiceProvider extends ServiceProvider
+{
+    public function boot()
+    {
+        if (!$this->app->runningInConsole()) {
+            return;
+        }
+
+        $this->commands([
+            Console\ReplaceCommand::class,
+        ]);
+    }
+
+    public function register()
+    {
+        //
+    }
+}
